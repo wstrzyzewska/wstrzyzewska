@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wstrzyzewska&label=Profile%20views&color=e25de5&style=plastic" alt="wstrzyzewska" /> </p>
 
-- 🔭 I’m currently working on **commercial dashboard for Inditex**
+- 🔭 I’m currently working on **cryptocurrency exchanges website**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **React, CSS**
+- 💬 Ask me about **React, Angular, Typescript**
 
-- 📫 How to reach me **w.strzyzewska@gmail.com**
+- 📫 How to reach me **wstrzyzewska94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
