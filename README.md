@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **cryptocurrency exchanges website**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Gatsby**
 
 - 💬 Ask me about **React, Angular, Typescript**
 
