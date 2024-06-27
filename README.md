@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Veronica</h1>
-<h3 align="center">A Front-End Developer living in Canada</h3>
+<h1 align="center">Hi 👋, I'm Weronika</h1>
+<h3 align="center">A Front-End Developer living in Gdansk, Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wstrzyzewska&label=Profile%20views&color=e25de5&style=plastic" alt="wstrzyzewska" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **React, Angular, Typescript**
 
-- 📫 How to reach me **veronicastrzyzewska@gmail.com**
+- 📫 How to reach me **wstrzyzewska@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/veronica-strzyzewska/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weronika-strzyżewska-0bb1b11ba" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/weronika-st/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="weronika-strzyżewska-0bb1b11ba" height="30" width="40" /></a>
 <a href="https://fb.com/weronika.strzyzewska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weronika.strzyzewska" height="30" width="40" /></a>
 <a href="https://instagram.com/wstrzyzewska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wstrzyzewska" height="30" width="40" /></a>
 </p>
